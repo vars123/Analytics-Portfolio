@@ -1,6 +1,6 @@
 # Analytics Portfolio
 
-Welcome to my Analytics Portfolio! This repository showcases a collection of my data science and analytics projects, each demonstrating different skills across data cleaning, exploratory analysis, statistical inference, and visualization.
+Welcome to my Analytics Portfolio! This repository showcases a collection of my analytics projects, each demonstrating different skills across data cleaning, exploratory analysis, statistical inference, and visualization.
 
 ## Skills & Tools
 `Python` `pandas` `NumPy` `Matplotlib/Seaborn` `SciPy` `Statistical Hypothesis Testing` `SQL` `Data Visualization`
